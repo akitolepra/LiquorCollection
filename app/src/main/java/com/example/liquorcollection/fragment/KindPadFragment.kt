@@ -48,4 +48,8 @@ class KindPadFragment : Fragment(), DbTaskListener<List<DrinkBigCategoryData>> {
     //コメントを追加
     fun doNothingTwo(){
     }
+
+    fun doNothingThree(){
+    }
+
 }
