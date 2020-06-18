@@ -52,4 +52,6 @@ class KindPadFragment : Fragment(), DbTaskListener<List<DrinkBigCategoryData>> {
     fun doNothingThree(){
     }
 
+    fun doNothingFour(){
+    }
 }
