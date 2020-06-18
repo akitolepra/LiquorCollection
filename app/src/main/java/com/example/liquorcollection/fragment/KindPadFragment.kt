@@ -35,6 +35,7 @@ class KindPadFragment : Fragment(), DbTaskListener<List<DrinkBigCategoryData>> {
         }
     }
 
+    //
     override fun onResult(result: List<DrinkBigCategoryData>) {
         for (data in result) {
         }
