@@ -39,4 +39,8 @@ class KindPadFragment : Fragment(), DbTaskListener<List<DrinkBigCategoryData>> {
         for (data in result) {
         }
     }
+
+    fun doNothing(){
+
+    }
 }
